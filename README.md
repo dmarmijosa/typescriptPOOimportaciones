@@ -12,7 +12,7 @@ Y para construir el build, recueren:
 ```
 npm run build
 ```
-
+```
 esta clase es de importaciones revisar el archivo index.ts y la clase xmen.class.ts
 ```
 
